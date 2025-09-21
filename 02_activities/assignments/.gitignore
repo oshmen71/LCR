@@ -1,0 +1,8 @@
+
+
+T
+# Ignore Jupyter notebooks in that folder
+01_materials/notebooks/dataset/*.ipynb
+
+# Ignore the exercises folder
+exercises/
